@@ -22,6 +22,11 @@ winebridge-1.1.0:
 
 # ./input_files/3-soda.yml
 # -----------------------
+soda-7.0-9:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1675615281'
 soda-7.0-8:
   Category: runners
   Sub-category: wine
@@ -119,6 +124,11 @@ caffe-6.23:
 
 # ./input_files/5-wine-GE-Proton.yml
 # -----------------------
+wine-ge-proton7-39:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1679028055'
 wine-ge-proton7-35:
   Category: runners
   Sub-category: wine
@@ -440,6 +450,11 @@ vaniglia-21.1.0-cx:
 
 # ./input_files/10-GE-Proton.yml
 # -----------------------
+ge-proton7-51:
+  Category: runners
+  Sub-category: proton
+  Channel: stable
+  Date: '1678926209'
 ge-proton7-43:
   Category: runners
   Sub-category: proton
@@ -1297,6 +1312,10 @@ w3c-6.19:
 
 # ./input_files/13-vkd3d-proton.yml
 # -----------------------
+vkd3d-proton-2.8-1-7b561f3:
+  Category: vkd3d
+  Channel: unstable
+  Date: '1679067001'
 vkd3d-proton-2.8:
   Category: vkd3d
   Channel: stable
@@ -1314,10 +1333,10 @@ vkd3d-proton-2.5:
 
 # ./input_files/14-dxvk.yml
 # -----------------------
-dxvk-2.0-1-12901b5:
+dxvk-2.1:
   Category: dxvk
-  Channel: unstable
-  Date: '1671503228'
+  Channel: stable
+  Date: '1674591008'
 dxvk-2.0:
   Category: dxvk
   Channel: stable
@@ -1378,6 +1397,10 @@ dxvk-async-1.9.4:
 
 # ./input_files/16-dxvk-nvapi.yml
 # -----------------------
+dxvk-nvapi-v0.6.2:
+  Category: nvapi
+  Channel: stable
+  Date: '1677857382'
 dxvk-nvapi-v0.6:
   Category: nvapi
   Channel: stable
