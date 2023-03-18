@@ -1,0 +1,10 @@
+Name: vkd3d-proton-2.8-1-7b561f3
+Provider: HansKristian-Work
+Maintainer: HansKristian-Work
+Channel: unstable
+File:
+- file_name: vkd3d-proton-2.8-1-7b561f3.tar.gz
+  url: https://github.com/jntesteves/components/releases/download/vkd3d-proton-2.8-1-7b561f3/vkd3d-proton-2.8-1-7b561f3.tar.gz
+  file_checksum: 1135c980b0f1672232f390d4e3d19af3
+  file_size: 2394379
+  rename: vkd3d-proton-2.8-1-7b561f3.tar.gz
